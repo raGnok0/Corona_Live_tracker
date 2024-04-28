@@ -1,0 +1,30 @@
+
+.card{
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+    margin: auto;
+}
+.card:hover{
+    background-color: aquamarine;
+    width: 210px;
+    transition: 0.2s ease-in
+}
+
+.card_tag{
+    margin: auto;
+    width: fit-content;
+
+}
+.card_data{
+    margin: auto;
+    width: fit-content;
+}
+.tag{
+    margin-left: 20pc;
+    margin-top: 4pc;
+    font-size: 2pc;
+}
+.dropdown{
+    margin-left: 20pc;
+}
